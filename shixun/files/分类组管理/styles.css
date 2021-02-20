@@ -806,7 +806,7 @@
 #u319 {
   border-width:0px;
   position:absolute;
-  left:805px;
+  left:808px;
   top:264px;
   width:56px;
   height:16px;
@@ -2018,4 +2018,41 @@
 #u353.disabled {
 }
 .u353_input_option {
+}
+#u354_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:21px;
+  height:33px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u354 {
+  border-width:0px;
+  position:absolute;
+  left:508px;
+  top:137px;
+  width:21px;
+  height:33px;
+  display:flex;
+}
+#u354 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u354_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
 }
